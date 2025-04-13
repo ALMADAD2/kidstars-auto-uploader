@@ -1,0 +1,1 @@
+# Placeholder for utils/generate_thumbnail.py
